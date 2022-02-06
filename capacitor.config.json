@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "consumir-api",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

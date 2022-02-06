@@ -1,0 +1,7 @@
+{
+  "name": "consumir-api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
